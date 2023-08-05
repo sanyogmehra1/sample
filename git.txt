@@ -1,3 +1,5 @@
 git init
 sudo apt-get update 
 sudo apt-get upgrade
+git remote -v
+new commands 
